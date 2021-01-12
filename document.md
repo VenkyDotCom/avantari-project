@@ -20,6 +20,8 @@ python face.py "path of the image"
 ![](./images/image1.png?raw=True)
 ### Result image:
 ![](./images/capture.png?raw=True)
+### Sample image:
+![](https://www.gstatic.com/webp/gallery/1.jpg)
 
 
 
